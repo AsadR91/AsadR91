@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Asad Rafique</h1>
-<div align="center"> <img src="1682917521922.jfif](1682917521922.jpeg"> </div>
+<div align="center"> <img src="https://github.com/AsadR91/AsadR91/blob/main/1682917521922.jpeg"> </div>
 <h3 align="center">A cloud-taming, pipeline-polishing, automation wizard from the land of freedom fries and endless scaling—the USA! 🦅☁️ Turning coffee into CI/CD spells and making sure downtime is just a myth. ☕💻 By day, I’m a corporate IT hero; by night, I dive into open-source adventures and craft blogs and HOWTOs. 🚀📝</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
