@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: Latest Blog Post
 on:
   schedule:
     - cron: '0 * * * *' #Runs every hour
