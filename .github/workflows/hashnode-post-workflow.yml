@@ -1,18 +1,25 @@
-name: Latest Hashnode Blog Post Workflow
+name: Latest blog post workflow
 on:
+  push:
+    branches:
+      - main
   schedule:
-    # Runs every day at midnight
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    # workflow runs every day
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
 jobs:
   update-readme-with-blog:
-    name: Update README with latest blog posts
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "HASHNODE"
-          feed_list: "https://ar01.hashnode.dev/rss.xml"
-          commit_message: "Updated README with latest Hashnode posts"
-
+          feed_list: "https://blog.automation-dev.us/rss.xml"
+          user_agent: "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+          accept_header: "text/xml"
