@@ -25,7 +25,7 @@
 
 <a href="blog.automation-dev.us"><h2 align="left">Tech Blog 📖</h2></a> 
 
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
