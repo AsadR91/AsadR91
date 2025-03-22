@@ -24,6 +24,9 @@
 
 
 <a href="https://blog.automation-dev.us"><h2 align="left">Tech Blog 📖</h2></a> 
+<p align="left">
+<a href="/https://blog.automation-dev.us/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://blog.automation-dev.us/rss.xml" height="30" width="40" /></a>
+</p>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
