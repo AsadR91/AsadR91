@@ -20,7 +20,7 @@ Turning coffee into CI/CD spells and making sure downtime is just a myth. â˜•ðŸ’
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+
 
 <div align="center">  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
@@ -55,15 +55,6 @@ Turning coffee into CI/CD spells and making sure downtime is just a myth. â˜•ðŸ’
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
