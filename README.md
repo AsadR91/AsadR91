@@ -87,8 +87,9 @@ Turning coffee into CI/CD spells and making sure downtime is just a myth. â˜•ðŸ’
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Shell Scripting for DevOps](https://dev.to/arafique458/shell-scripting-for-devops-1185)
+- [What is Devops?](https://dev.to/arafique458/what-is-devops-1801)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
