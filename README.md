@@ -88,8 +88,11 @@ Turning coffee into CI/CD spells and making sure downtime is just a myth. â˜•ðŸ’
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Shell Scripting for DevOps](https://dev.to/arafique458/shell-scripting-for-devops-1185)
-- [What is Devops?](https://dev.to/arafique458/what-is-devops-1801)
+- [SSH Key Generating for Git hub Process](https://dev.to/arafique458/ssh-key-generating-for-git-hub-process-2f4g)
+- [User/Group Management and Permissions/Ownership in Linux](https://dev.to/arafique458/usergroup-management-and-permissionsownership-in-linux-4k74)
+- [10 Corporate Real-Time Shell Scripts](https://dev.to/arafique458/10-corporate-real-time-shell-scripts-563i)
+- [Frontend Roboshop](https://dev.to/arafique458/frontend-roboshop-1ij4)
+- [DevOps Project 1 | GitHub+Jenkins+Docker+ECR+Kubernetes](https://dev.to/arafique458/devops-project-1-githubjenkinsdockerecrkubernetes-4boe)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
