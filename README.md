@@ -88,11 +88,11 @@ Turning coffee into CI/CD spells and making sure downtime is just a myth. ☕�
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [🐳 What is Docker? A Beginner-Friendly Breakdown](https://dev.to/arafique458/what-is-docker-a-beginner-friendly-breakdown-2h7o)
 - [SSH Key Generating for Git hub Process](https://dev.to/arafique458/ssh-key-generating-for-git-hub-process-2f4g)
 - [User/Group Management and Permissions/Ownership in Linux](https://dev.to/arafique458/usergroup-management-and-permissionsownership-in-linux-4k74)
 - [10 Corporate Real-Time Shell Scripts](https://dev.to/arafique458/10-corporate-real-time-shell-scripts-563i)
 - [Frontend Roboshop](https://dev.to/arafique458/frontend-roboshop-1ij4)
-- [DevOps Project 1 | GitHub+Jenkins+Docker+ECR+Kubernetes](https://dev.to/arafique458/devops-project-1-githubjenkinsdockerecrkubernetes-4boe)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
